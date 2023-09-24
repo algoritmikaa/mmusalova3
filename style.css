@@ -1,0 +1,74 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: rgb(155, 197, 235);
+    padding: 10px;
+    border-radius: 7px;
+    color: darkblue;
+    border: 3px solid rgb(20, 23, 66)
+}
+
+header a {
+    background-color: white;
+    padding: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 10px;
+}
+
+main h1 {
+    background-color: rgb(155, 197, 235);
+    text-align: center;
+    color: darkblue;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+footer {
+background-color: rgb(219, 161, 106);
+border: 3px solid rgb(219, 161, 106);
+border-radius: 5px;
+}
+
+footer p {
+    background-color: white;
+    padding: 5px;
+}
+
+nav {
+    margin: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    padding: 5px;
+    color: white;
+    background-color: darkblue;
+    border-radius: 9px;
+    margin: 10px;
+}
+
+.madina {
+    border: 3px solid darkblue;
+    border-radius: 12px;
+    color: darkblue;
+    background-color: white;
+}
+
+.algoritmika {
+    background-color: rgb(149, 187, 126);
+    padding: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+.algo {
+    text-decoration: none;
+    color: darkblue;
+    border: 3px solid darkblue;
+    padding: 8px;
+}
